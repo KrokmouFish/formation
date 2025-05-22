@@ -3,12 +3,12 @@ function feature4_1(){
     return
 }
 
-function feature4_2(){
+function feature1_2(){
     code4_2
-    yield
+    return
 }
 
-function feature4_3(){
+function feature1_3(){
     maj2 code4_3
     return
 }
