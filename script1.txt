@@ -21,6 +21,7 @@ function feature1_3(){
 
 function feature1_4(){
     code1_4
+    maj_f5 code
     return
 }
 
