@@ -1,5 +1,9 @@
 function feature3_1(){
     maj_f3 code3_3
+<<<<<<< HEAD
     maj dep
+=======
+    maj_f5 dep
+>>>>>>> 4c3248b46ddad1cf42be7a960755d140965abf86
     return
 }
