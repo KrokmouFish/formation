@@ -5,3 +5,9 @@ function feature1_1(){
     dep_main
     return
 }
+
+function feature1_1(){
+    dep_code+++
+    dep_main
+    return
+}
