@@ -4,10 +4,6 @@ function feature4_1(){
 }
 
 
-
-
-
-
 function feature1_2(){
     code5_2
     return
